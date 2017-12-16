@@ -4,7 +4,7 @@ A simple demo website build by urubu-quickstart for "Static Website Hosting on A
 ## About urubu installation & build:
 http://urubu-quickstart.jandecaluwe.com/start.html
 
-Steps:
+## Steps:
 
 Clone the repository
 
