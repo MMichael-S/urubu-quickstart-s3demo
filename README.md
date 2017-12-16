@@ -1,7 +1,7 @@
 # urubu-quickstart-s3demo
 A simple demo website build by urubu-quickstart for "Static Website Hosting on Amazon S3"
 
-#About urubu installation & build:
+##About urubu installation & build:
 http://urubu-quickstart.jandecaluwe.com/start.html
 
 Steps:
